@@ -8,5 +8,7 @@ the following list of sensors will be available
 * NFC Reader
 * Motion Sensor
 * Ultrasonic Sensor
+* Buzzer
+* EnergyMeter
 
 and probably some more
